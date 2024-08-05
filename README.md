@@ -18,7 +18,7 @@ Text-to-Speech: Implement a TTS engine for pronunciation features.
 Database: Store vocabulary, translations, and user progress.
 User Interface: Design an intuitive AR interface that doesn't obstruct the camera view.
 
-#Challenges and Considerations:
+# Challenges and Considerations:
 
 Accuracy of object recognition in various lighting conditions and environments.
 Handling multiple objects in the same frame.
