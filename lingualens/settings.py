@@ -132,9 +132,9 @@ LOGOUT_REDIRECT_URL = 'home'
 
 # Cloudinary settings
 CLOUDINARY = {
-    'cloud_name': 'dmcq3atiu',
-    'api_key': '638273174187591',
-    'api_secret': 'xJ8jpJmJfEf37ttLNdhOw5KBXtQ'
+    'cloud_name': '###',
+    'api_key': '###',
+    'api_secret': '###'
 }
 
 # LibreTranslate API URL
