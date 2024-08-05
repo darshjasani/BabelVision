@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Welcome to LinguaLens</h2>
+{% if user.is_authenticated %}
+    <p>Hello, {{ user.username }}!</p>
+    <a href="{% url 'ar_interface' %}" class="btn btn-primary">Start AR Learning</a>
+{% else %}
+    <p>Please log in or register to start learning.</p>
+{% endif %}
+{% endblock %}
