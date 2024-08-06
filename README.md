@@ -24,4 +24,4 @@ Accuracy of object recognition in various lighting conditions and environments.
 Handling multiple objects in the same frame.
 Ensuring real-time performance on mobile devices.
 Data privacy and offline functionality.
-Culturally appropriate translations and context.
+Culturally appropriate translations and context. 
